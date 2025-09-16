@@ -1,4 +1,6 @@
-# Hi there 👋, I'm Raditya!
+# Hi there 👋
+Welcome to my profile!
+
 
 🔭 I’m currently learning Flask & Python  
 🌱 I use Neovim as my main editor  
