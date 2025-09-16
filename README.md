@@ -1,7 +1,8 @@
-# Hi there 👋
+# Hi there 👋, I'm Raditya!
 
-Aku [Raditya808]  
+🔭 I’m currently learning Flask & Python  
+🌱 I use Neovim as my main editor  
+⚡ Fun fact: Error dulu, ngoding belakangan 😆  
 
-🔭 Lagi belajar: Python, JavaScript  
-🌱 Suka ngoprek open-source  
-⚡ Fun fact: Ngoding sambil ngopi ☕  
+## 📊 GitHub Stats
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Raditya808&show_icons=true&theme=tokyonight)
