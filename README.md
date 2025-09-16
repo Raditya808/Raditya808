@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Aku [Nama Kamu]  
+Aku [Raditya808]  
 
 🔭 Lagi belajar: Python, JavaScript  
 🌱 Suka ngoprek open-source  
